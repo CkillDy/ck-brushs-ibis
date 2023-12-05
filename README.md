@@ -1,14 +1,17 @@
-Ck Brushs
+# Ck Brushs
+
 Um repositório contendo alguns dos meus principais pincéis que utilizo no IbisPaintX.
 
-Descrição
+## Descrição
+
 Este projeto é dedicado à disponibilização dos meus pincéis personalizados para o IbisPaintX. Adicione um toque exclusivo às suas obras de arte digitais com essas ferramentas criativas. Este site foi desenvolvido em React.js.
 
-Meta
-Autor: CkillDy
-Palavras-chave: Pinceis ibispaintX, Site em Reactjs, Brushs Drawing, Brushs ibispaintX, Html, Css
-Sinta-se à vontade para explorar e aprimorar suas criações! 🎨
+## Meta
 
+- **Autor:** CkillDy
+- **Palavras-chave:** Pinceis ibispaintX, Site em Reactjs, Brushs Drawing, Brushs ibispaintX, Html, Css
+
+Sinta-se à vontade para explorar e aprimorar suas criações! 🎨
 
 # React + Vite
 
